@@ -37,7 +37,7 @@
 
 ![](https://github.com/maxchen0102/-Attraction-recommendation-website-Kmean-/blob/72358bd8f5ae3510378c2f3eccdd04c54132aab7/pic/7.png)
 
-下圖為輸入北橫山中照片的推薦結果
+### 下圖為輸入北橫山中照片的推薦結果
 
 ![](https://github.com/maxchen0102/-Attraction-recommendation-website-Kmean-/blob/72358bd8f5ae3510378c2f3eccdd04c54132aab7/pic/8.png)
 
